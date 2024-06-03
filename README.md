@@ -19,7 +19,9 @@ Explore the traditional mud-brick architecture and discover items like the Saudi
 Discover the ancient rock formations and archaeological sites, including the "Al-Ula Oasis Pool." Continue the treasure hunt with informative pop-ups detailing Al-Ula's rich history and culture.
 
 
-Main Character:
+# Main Character:
+
+
 ![image](https://github.com/Leioo244/Environments_Unity/assets/151604403/62a6dc3a-a66b-4d32-b653-5fbce0e188a2)
 
 ![image](https://github.com/Leioo244/Environments_Unity/assets/151604403/2d8de674-4028-4cf1-abea-4f3fba2969c1)
